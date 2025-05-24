@@ -13,7 +13,7 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "remark-livecodes": "0.2.1"
+    "remark-livecodes": "0.4.0"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^3.2.6",

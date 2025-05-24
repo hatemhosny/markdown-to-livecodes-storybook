@@ -17,7 +17,7 @@ const config: StorybookConfig = {
               [
                 remarkLivecodes,
                 {
-                  appUrl: "https://dev.livecodes.io",
+                  /* options */
                 },
               ],
             ],
